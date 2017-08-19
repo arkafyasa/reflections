@@ -2,3 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 Git creating folder named .git and then files in that directory where it initialized set to untracked status.
 I need to initialize to make git knows what file is ready to commit.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is the place for containing files where its ready to commit into repository so it musn't able directly changed 
+like it placed in the working directory.
