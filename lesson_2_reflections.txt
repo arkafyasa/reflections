@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creating folder named .git and then files in that directory where it initialized set to untracked status.
+I need to initialize to make git knows what file is ready to commit.
