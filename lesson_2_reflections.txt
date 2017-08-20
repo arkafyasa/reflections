@@ -15,3 +15,7 @@ I can use "add" command per modified file then commit it and run "diff" command 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Where we make changes the script besides the main flow of project for different purposes, so it can't change anything in the main project.
+
+How do the diagrams help you visualize the branch structure?
+
+Because diagram makes me knows whole of project structure in the repository. 
