@@ -19,3 +19,7 @@ Where we make changes the script besides the main flow of project for different 
 How do the diagrams help you visualize the branch structure?
 
 Because diagram makes me knows whole of project structure in the repository. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging makes the different feature in the separate branch can included in the main project. Diagram makes us know the whole detail about project.
