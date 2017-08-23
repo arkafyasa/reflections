@@ -23,3 +23,11 @@ Because diagram makes me knows whole of project structure in the repository.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging makes the different feature in the separate branch can included in the main project. Diagram makes us know the whole detail about project.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros of automatic merging is helping development is much faster because we dont need to review the code in the conflict section.
+Cons : if we not checkout the conflict section of the code, we dont know if the code works or error. Or in other mean, it can goes in wrong way.
+Pros of manual merging is we can checking wich section get changed and fix it to be understandable and runnable.
+Cons : need a lot of time to check and fix it.
+
